@@ -38,9 +38,7 @@ You can customize the script by adjusting the parameters, changing the dataset, 
 
 The script generates frequent itemsets and association rules for different discretization methods and displays the results. You can analyze these results to identify interesting patterns in your dataset.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
